@@ -1,0 +1,37 @@
+[
+    {
+        "Category": "Doprava",
+        "Positive (%)": 80,
+        "Neutral (%)": 10,
+        "Negative (%)": 10,
+        "Average Rating": 4.5
+    },
+    {
+        "Category": "Bezpecnost",
+        "Positive (%)": 75,
+        "Neutral (%)": 15,
+        "Negative (%)": 10,
+        "Average Rating": 4.2
+    },
+    {
+        "Category": "Verejny priestor",
+        "Positive (%)": 65,
+        "Neutral (%)": 20,
+        "Negative (%)": 15,
+        "Average Rating": 3.8
+    },
+    {
+        "Category": "Mestske sluzby",
+        "Positive (%)": 70,
+        "Neutral (%)": 15,
+        "Negative (%)": 15,
+        "Average Rating": 4.0
+    },
+    {
+        "Category": "Zivotne prostredie",
+        "Positive (%)": 85,
+        "Neutral (%)": 10,
+        "Negative (%)": 5,
+        "Average Rating": 4.7
+    }
+]
