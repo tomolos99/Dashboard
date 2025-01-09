@@ -1,0 +1,14 @@
+[
+    {
+        "Feedback Type": "Positive",
+        "Count": 300
+    },
+    {
+        "Feedback Type": "Neutral",
+        "Count": 150
+    },
+    {
+        "Feedback Type": "Negative",
+        "Count": 50
+    }
+]
